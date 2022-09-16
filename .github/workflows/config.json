@@ -1,7 +1,8 @@
 {
   "default_kernel":["R", "python"],
   "settings":{
-      "need_to_check_impersonality":false,
+      "max_participants_in_group": 1,
+      "need_to_check_impersonality": false,
       "points":[
         "Цель работы",
         "Основные теоретические положения",
@@ -11,8 +12,8 @@
         ]
   },
   "works":{
-    "lab1": {
-      "deadline":"2022-09-27",
+    "task1": {
+      "deadline":"2022-10-01",
       "kernel":["R", "python"]
     },
     "task2": {
