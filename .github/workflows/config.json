@@ -1,7 +1,7 @@
 {
   "default_kernel":["R", "python"],
   "settings":{
-      "max_participants_in_group": 1,
+      "max_participants_in_group": 3,
       "need_to_check_impersonality": false,
       "points":[
         "Цель работы",
